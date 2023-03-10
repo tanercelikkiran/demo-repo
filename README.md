@@ -2,6 +2,6 @@
 
 This is a demo repo for learning GitHub basics.
 
-## description
+## Description
 
 This is another description.
